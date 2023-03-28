@@ -1,1 +1,36 @@
-
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Портфолио 3d дизайнера">
+    <meta name="keywords" content="3d дизайн, портфолио, веб-сайт">
+    <title>Портфолио 3d дизайнера</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>Имя Фамилия</h1>
+            </div>
+            <nav class="menu">
+                <ul>
+                    <li><a href="#about">Обо мне</a></li>
+                    <li><a href="#works">Работы</a></li>
+                    <li><a href="#contact">Контакты</a></li>
+                </ul>
+            </nav>
+            <div class="burger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </header>
+    <main>
+        <section id="about">
+            <div class="container">
+                <div class="content">
+                    <h2>Обо мне</h2>
+                    <p>Я 3d дизайнер с опытом работы более 5 лет. Я специализиру
